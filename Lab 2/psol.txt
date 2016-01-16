@@ -1,0 +1,5 @@
+"While we are postponing, life speeds by."
+"2 4 8 14 22 32"
+"0 58"
+"176 2"
+"pngeoi"

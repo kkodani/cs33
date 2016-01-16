@@ -1,0 +1,25 @@
+Kyle Kodani
+903896275
+CS33 Discussion 1A
+
+Problem 2.86
+
+Description				Hex	M	E	V
+-0					8000	0	-63	-
+Smallest value > 2			4001	257/256	1	257*2^-7
+512					4800	1	9	-
+largest denormalized			00FF	255/256	-62	255*2^-70
+−∞					FF00	-	-	-
+number with hex representation 3BB0	-	432/256	-4	27*2^-8
+
+
+Problem 2.87
+
+Format A				Format B
+Bits		Value			Bits		Value
+1 01111 001	-9\8			1 0111 0010	-9/8
+0 10110 011	176			0 1110 0110	176
+1 00111 010	-5/1024			1 0000 0101	-5/1024
+0 00000 111	7/131072		0 0000 0001	1/1024
+1 11100 000	-8192			1 1111 0000	-∞
+0 10111 100	384			0 1111 0000	+∞

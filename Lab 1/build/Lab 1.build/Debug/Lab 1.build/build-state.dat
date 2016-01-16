@@ -1,0 +1,227 @@
+TLab 1
+v7
+r0
+t371967775.878553
+cCheck dependencies
+cCompileC "build/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/btest.o" "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/btest.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC "build/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/decl.o" "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/../datalab/decl.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC "build/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/tests.o" "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/../datalab/tests.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC "build/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/bits.o" "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/../../../../bits.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cLd "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Debug/Lab 1" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004BBD2CE90000000000002DF5
+t1270689001
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004BBD2CE9000000000000563E
+t1270689001
+s22078
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/limits.h
+c000000004A11EB240000000000000C7E
+t1242688292
+s3198
+
+N/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/../../../../bits.c
+c00000000507B8EDC000000000000240B
+t1350274780
+s9227
+i"btest.h"
+i<limits.h>
+
+N/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/../datalab/decl.c
+c000000004D949C1A00000000000007B9
+t1301584922
+s1977
+i<stdio.h>
+i<stdlib.h>
+i<limits.h>
+i"btest.h"
+i"bits.h"
+
+N/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/../datalab/tests.c
+c000000004D96475F00000000000004B4
+t1301694303
+s1204
+
+N/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/bits.c
+c00000000506E52E00000000000001B5F
+t1349407456
+s7007
+i"btest.h"
+i<limits.h>
+
+N/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/btest.c
+c000000004D93BAB600000000000025CA
+t1301527222
+s9674
+i<stdio.h>
+i<unistd.h>
+i<stdlib.h>
+i<string.h>
+i<limits.h>
+i"btest.h"
+
+N/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/btest.h
+c000000004D93BAB6000000000000033D
+t1301527222
+s829
+
+N/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Debug/Lab 1
+t1350274975
+s22672
+
+N/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/Lab 1.LinkFileList
+c00000000507B8F9F00000000000001CA
+t1350274975
+s458
+
+N/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/bits-9E58F3D162769363.o
+t2
+s0
+
+N/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/bits-F897BBE4A4F6FF6D.o
+t2
+s0
+
+N/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/bits.o
+t1350274975
+s8648
+
+N/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/btest.o
+t1349846727
+s14988
+
+N/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/decl.o
+t1350274916
+s5156
+
+N/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/tests.o
+t1350274915
+s7684
+
+N/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/main.cpp
+c000000005075067C000000000000008F
+t1349846652
+s143
+i<iostream>
+
+N/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/datalab/bits.h
+c000000004D949C1A0000000000000254
+t1301584922
+s596
+
+N/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/datalab/btest.h
+c000000004D93BAB6000000000000033D
+t1301527222
+s829
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies371967775#371967775#0(0"0(0#1#0"8608879584#0"0#
+
+CCompileC "build/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/bits-9E58F3D162769363.o" "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/bits.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/bits-F897BBE4A4F6FF6D.o" "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/../../../../bits.c" normal x86_64 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/bits.o" "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/../../../../bits.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s371967775.828099
+e371967775.862425
+r1
+xCompileC
+xbuild/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/bits.o
+x/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/../../../../bits.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/../../../../bits.c371967775#371967775#0(0"0(0#0#67"/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/../../../../bits.c8608557888#1378"    cd "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Lab 1-generated-files.hmap" "-I/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Lab 1-own-target-headers.hmap" "-I/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Lab 1-all-target-headers.hmap" -iquote "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Lab 1-project-headers.hmap" "-F/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Debug" "-I/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Debug/include" "-I/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/DerivedSources/x86_64" "-I/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/DerivedSources" -c "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/../../../../bits.c" -o "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/bits.o"0#
+
+CCompileC "build/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/bits.o" "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/bits.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s371539527.386788
+e371539527.799266
+r1
+xCompileC
+xbuild/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/bits.o
+x/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/bits.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/bits.c371539527#371539527#0(0"0(0#0#55"/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/bits.c32651556867473508#1366"    cd "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Lab 1-generated-files.hmap" "-I/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Lab 1-own-target-headers.hmap" "-I/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Lab 1-all-target-headers.hmap" -iquote "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Lab 1-project-headers.hmap" "-F/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Debug" "-I/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Debug/include" "-I/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/DerivedSources/x86_64" "-I/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/DerivedSources" -c "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/bits.c" -o "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/bits.o"0#
+
+CCompileC "build/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/btest.o" "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/btest.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s371539527.439795
+e371539527.874061
+r1
+xCompileC
+xbuild/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/btest.o
+x/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/btest.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/btest.c371539527#371539527#0(0"0(0#0#56"/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/btest.c8605608832#1368"    cd "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Lab 1-generated-files.hmap" "-I/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Lab 1-own-target-headers.hmap" "-I/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Lab 1-all-target-headers.hmap" -iquote "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Lab 1-project-headers.hmap" "-F/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Debug" "-I/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Debug/include" "-I/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/DerivedSources/x86_64" "-I/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/DerivedSources" -c "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/btest.c" -o "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/btest.o"0#
+
+CCompileC "build/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/decl.o" "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/../datalab/decl.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s371967715.501262
+e371967716.223484
+r1
+xCompileC
+xbuild/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/decl.o
+x/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/../datalab/decl.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/../datalab/decl.c371967715#371967716#0(0"0(0#0#66"/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/../datalab/decl.c8607128416#1377"    cd "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Lab 1-generated-files.hmap" "-I/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Lab 1-own-target-headers.hmap" "-I/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Lab 1-all-target-headers.hmap" -iquote "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Lab 1-project-headers.hmap" "-F/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Debug" "-I/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Debug/include" "-I/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/DerivedSources/x86_64" "-I/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/DerivedSources" -c "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/../datalab/decl.c" -o "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/decl.o"0#
+
+CCompileC "build/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/main.o" "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/tests.o" "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/../datalab/tests.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s371967715.537151
+e371967715.887023
+r1
+xCompileC
+xbuild/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/tests.o
+x/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/../datalab/tests.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/../datalab/tests.c371967715#371967715#0(0"0(0#0#67"/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/../datalab/tests.c8606831072#1379"    cd "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Lab 1-generated-files.hmap" "-I/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Lab 1-own-target-headers.hmap" "-I/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Lab 1-all-target-headers.hmap" -iquote "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Lab 1-project-headers.hmap" "-F/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Debug" "-I/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Debug/include" "-I/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/DerivedSources/x86_64" "-I/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/DerivedSources" -c "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/../datalab/tests.c" -o "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/tests.o"0#
+
+CLd "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Debug/Lab 1" normal x86_64
+s371967775.862515
+e371967775.878505
+r1
+xLd
+x/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Debug/Lab 1
+xnormal
+xx86_64
+lSLF07#2@71"Link /Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Debug/Lab 1371967775#371967775#0(0"0(0#0#0"8608483360#550"    cd "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Debug" "-F/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Debug" -filelist "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Lab 1.build/Debug/Lab 1.build/Objects-normal/x86_64/Lab 1.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/kkodani/Desktop/Kyle/Junior Q1/CS33/Lab 1/build/Debug/Lab 1"0#
+

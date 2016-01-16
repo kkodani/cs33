@@ -1,0 +1,90 @@
+10/5/12
+
+decimal to binary: divide number by 2 over and over again until you can't
+ex. 19		19/2=9r1
+		9/2=4r1
+		4/2=2r0
+		2/2=2r0
+		1/2=0r1
+			Answer=11001
+
+binary to hexadecimal: split into 4 bit segments, convert each segment to corresponding hex value.
+	each hex digit=4 bits
+	one byte=2 hex digits=8 bits
+hex goes from 0-9 and a-f  (0-f)
+
+big endian: least significant byte has highest address
+little endian: least significant byte has lowest address
+
+byte is smallest unit of access
+
+philo 31=boolean algebra
+1 is true, 0 is false
+& is like * and | is like +
+properties: commutativity, associativity, product distributes over sum, sum and product identity, zero is product annihilator, cancellation of a negation.
+demorgan's laws apply
+^ is exclusive or
+A^B=(~A&B)|(A&~B)
+A^B=(A|B)&~(A|B)
+
+ex 0x69 & 0x55 -> 01101001 & 01010101 -> 01000001 -> 0x41
+   
+ex 0x69 && 0x55 -> 1
+
+practice:
+a) ~3 | ~5= ~0011 | ~0101 = 1100 | 1010 = 1110 =0xE
+	(actually in 32 bit so answer is 0xFFFFFFFE)
+b) 3^2^5^3^2^5^2 = (3^3)^(2^2)^(5^5)^2 = 2
+
+a) (n&(n-1))==0
+
+b) (n & 0xaaaaaaaa) | (n & 0x55555555)
+   = n | (0xaaaaaaaa & 0x55555555)
+   = n | (000000000…..000000)
+   = n
+
+
+
+10/12/12
+
+5 in SM 0101
+5 in TC 0101
+-5 in SM 1101
+-5 in TC ~(0101)+1=1011
+
+in SM, leftmost bit indicates sign: 1 is neg, 0 is pos
+in 4 bit SM, 0=0000 and 0=1000
+
+int logicalNeg(int x)
+{
+	int opp=~x+1;
+	return ~((opp|x)>>31) &1;
+}
+
+int reverseBytes(int x)
+{
+	
+}
+
+int conditional(int x, int y, int z)
+{
+	int mask=!x;
+	int case1=(~x)&y;
+	int case2=mask&z;
+	return case1|case2;
+
+	alternate
+	int notx=!x;
+	int mask =notx+ ~0L;
+	return (y & mask) | (z & ~mask);
+}
+
+
+
+
+
+
+
+
+
+
